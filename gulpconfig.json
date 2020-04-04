@@ -1,6 +1,6 @@
 {
   "browserSyncOptions" : {
-    "proxy": "localhost/wordpress/",
+    "proxy": "wordpresstheme1.wp/",
     "notify": false
   },
   "browserSyncWatchFiles" : [
